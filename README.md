@@ -2,30 +2,28 @@
 
 ### Full Stack Software Developer
 
-> Transforming creativity into software that solves real-world problems.
+> *Building software that transforms ideas into real-world solutions.*
 
-I'm a Full Stack Software Developer passionate about building modern web applications, AI-powered tools and scalable SaaS products.
+I'm a Full Stack Software Developer focused on building modern web applications, AI-powered tools and scalable SaaS products.
 
-Currently studying Biotechnology, I bring a scientific mindset, analytical thinking and problem-solving skills into software engineering.
-
-My long-term goal is to create software that has a real impact on people's lives.
+Currently studying Biotechnology, I combine a scientific mindset with software engineering to solve complex problems through technology. My goal is to create software that delivers real value and makes people's lives easier.
 
 ---
 
 ## 🚀 Current Focus
 
-- Building Full Stack applications
-- Artificial Intelligence
-- SaaS Development
-- Cloud Architecture (AWS)
-- Docker & DevOps
+- Building scalable Full Stack applications
+- Developing AI-powered products
+- Creating SaaS solutions from idea to deployment
+- Learning Cloud Architecture with AWS
+- Expanding my knowledge in Docker and DevOps
+- Improving software architecture and system design
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-**Frontend**
-
+### Frontend
 - HTML5
 - CSS3
 - JavaScript
@@ -33,21 +31,18 @@ My long-term goal is to create software that has a real impact on people's lives
 - React
 - Next.js
 
-**Backend**
-
+### Backend
 - Node.js *(currently expanding my expertise)*
 
-**Database**
-
+### Database
 - PostgreSQL
 - Supabase
 
-**Tools**
-
+### Tools
 - Git
 - GitHub
-- Vercel
 - VS Code
+- Vercel
 
 ---
 
@@ -56,7 +51,9 @@ My long-term goal is to create software that has a real impact on people's lives
 - AWS
 - Docker
 - Artificial Intelligence
-- Scalable System Design
+- System Design
+- Cloud Infrastructure
+- DevOps Best Practices
 
 ---
 
@@ -64,19 +61,58 @@ My long-term goal is to create software that has a real impact on people's lives
 
 ### ProposalAI
 
-An AI-powered SaaS designed to simplify proposal creation through modern web technologies.
+ProposalAI is an AI-powered SaaS designed to simplify proposal creation through intelligent automation and a modern Full Stack architecture.
 
-> More projects coming soon.
+**Tech Stack**
+- Next.js
+- TypeScript
+- Supabase
+- PostgreSQL
+- OpenAI API
+- Vercel
+
+> More exciting projects coming soon.
+
+---
+
+## 🎯 What Drives Me
+
+I enjoy transforming ideas into products that people genuinely enjoy using.
+
+Whether it's an AI-powered application, a SaaS platform or a modern web application, my goal is always the same:
+
+- Build software that solves meaningful problems.
+- Keep learning and improving every day.
+- Create products that are useful, scalable and intuitive.
 
 ---
 
 ## 🧬 Background
 
-My background in Biotechnology has strengthened my analytical thinking, scientific methodology and structured problem-solving approach, skills that I apply daily in software development.
+Studying Biotechnology has given me a structured, analytical and scientific approach to problem solving. These skills complement my work as a software developer and help me build reliable and thoughtful solutions.
 
 ---
 
-## 📫 Connect with me
+## 📈 GitHub Goals
+
+I'm continuously expanding my portfolio by building real-world applications that strengthen my skills in:
+
+- Full Stack Development
+- Artificial Intelligence
+- SaaS Products
+- Cloud Computing
+- Software Architecture
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn *(coming soon)*
+- 🌐 Portfolio *(coming soon)*
+
+---
+
+> *Creativity becomes valuable when it solves real problems.*
 
 - LinkedIn *(coming soon)*
 - Portfolio *(coming soon)*
